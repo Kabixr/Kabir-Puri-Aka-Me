@@ -77,7 +77,7 @@ System Thinking · Leadership · Communication · Problem Solving
 
 ---
 
-# 🎨 Badge Wall (Tech Flex)
+# 🎨 Badge Wall
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -129,20 +129,6 @@ Photography · Fitness · Music Production · Data Experiments · Creative Tech 
 
 # 📄 Resume  
 **[📄 Download My Resume](https://raw.githubusercontent.com/Kabixr/Kabir-Puri-Aka-Me/main/Resume.pdf)**
-
- 
-
----
-
-# 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabixr&show_icons=true&theme=tokyonight" width="50%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kabixr&theme=tokyonight" width="50%"/>
-</p>
 
 ---
 
