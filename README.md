@@ -3,9 +3,9 @@
       COMPLETE README (ALL SECTIONS)
 ========================= -->
 
-<!-- 🔥 Banner (Upload your own banner.png then replace link) -->
+<!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kabixr/Kabixr/main/banner.png" width="100%" alt="Kabir Banner"/>
+  <img src="https://i.imgur.com/h5h4VrZ.png" width="100%" alt="Kabir Puri Banner"/>
 </p>
 
 <h1 align="center">✨ Kabir Puri ✨</h1>
@@ -13,10 +13,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analytics-Expert-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Engineer-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Engineer-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLM%20Developer-yellow?style=for-the-badge"/>
 </p>
-
 
 ---
 
