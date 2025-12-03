@@ -5,7 +5,9 @@
 
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/h5h4VrZ.png" width="100%" alt="Kabir Puri Banner"/>
+  <img src="https://images.unsplash.com/photo-1527443224154-d61f8c0906b9?auto=format&fit=crop&w=1600&q=80" 
+       width="100%" 
+       alt="Kabir Puri Banner"/>
 </p>
 
 <h1 align="center">✨ Kabir Puri ✨</h1>
